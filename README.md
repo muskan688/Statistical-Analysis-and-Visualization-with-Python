@@ -6,9 +6,9 @@ dataset, perform descriptive and inferential statistics, and visualize the resul
 
 Tools and Libraries
 You will use the following Python libraries:
-• Pandas
-• Numpy
-• Matplotlib
-• Seaborn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 * For more information read the information file.
