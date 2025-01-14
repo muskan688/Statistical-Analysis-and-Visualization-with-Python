@@ -11,4 +11,4 @@ You will use the following Python libraries:
 - Matplotlib
 - Seaborn
 
-For more information read the information file.
+For more information read the problem statement pdf.
